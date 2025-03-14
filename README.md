@@ -4,6 +4,13 @@
 
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/technologies/downloads/#java21)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+[![Made with Cursor](https://img.shields.io/badge/Made%20with-Cursor-blue.svg)](https://cursor.sh)
+
+## About
+
+This project was created using [Cursor](https://cursor.sh), an AI-first IDE powered by Claude 3.5 Sonnet. The entire codebase, including the audio processing implementation, Maven configuration, and documentation, was developed through pair programming with Cursor's AI assistant.
+
+**Cursor Version**: 0.8.6
 
 ## Features
 
