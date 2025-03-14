@@ -3,7 +3,7 @@
 > A Java-based audio processing application for recording and analyzing audio signals.
 
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/technologies/downloads/#java21)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 ## Features
 
@@ -71,7 +71,9 @@ The project uses JavaCV/FFmpeg for audio processing with the following specifica
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
+
+For more information, visit [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 ## Acknowledgments
 
